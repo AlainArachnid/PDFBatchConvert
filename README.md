@@ -9,7 +9,7 @@ This work was produced to be used for UNESCO but UNESCO is absolutely not linked
 This work is very specific. Don't try to use it as it is.
 I published it on GITHUB to illustrate some techniques I had to set up.
 
-The program is used to produce PDFs for previously scanned documents. We got the documents as a bunch of one page PDF (image + masked OCR test) + JPEG2000 images (.pj2) for the same pages. The produced pdf contains all the pages of one document, image coming from the .jp2 files + binarized fr size optimization (converted to black&white without grey shade), masked text coming the the masked text of initial pdf files.
+The program is used to produce PDFs for previously scanned documents. We got the documents as a bunch of one page PDF (image + masked OCR test) + JPEG2000 images (.jp2) for the same pages. The produced pdf contains all the pages of one document, image coming from the .jp2 files + binarized fr size optimization (converted to black&white without grey shade), masked text coming the the masked text of initial pdf files.
 
 ## Binarization
 
